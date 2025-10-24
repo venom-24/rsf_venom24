@@ -44,6 +44,7 @@ pkg install python-cryptography
 pkg install python-bcrypt
 pip install setuptools
 pip install requests
+pip install paramiko
 pip install crypto
 pip install pycryptodome
 
